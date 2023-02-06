@@ -1,0 +1,19 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gowdesh586/code-challenge.git"
+  },
+  "author": "gowdesh586",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gowdesh586/code-challenge/issues"
+  },
+  "homepage": "https://github.com/gowdesh586/code-challenge#readme"
+}
